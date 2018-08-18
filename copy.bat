@@ -24,7 +24,7 @@ if exist %localappdata%/Android/Sdk (
 )
 robocopy %basedir%/.android %UserProfile%/.android /s /e
 robocopy %basedir%/.gradle %UserProfile%/.gradle /s /e
-robocopy %basedir%/.AndroidStudio3.1 %UserProfile%/AndroidStudio3.1 /s /e
+robocopy %basedir%/.AndroidStudio3.1 %UserProfile%/.AndroidStudio3.1 /s /e
 robocopy %basedir%/Sdk %localappdata%/Android/Sdk /s /e
 echo CopyComplete
 pause
