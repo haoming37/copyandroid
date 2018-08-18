@@ -1,0 +1,2 @@
+# copyandroid
+AndroidStudio関連ファイル展開用のbatファイル
